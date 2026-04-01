@@ -24,11 +24,6 @@ India
 
 ---
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-0909&show_icons=true&theme=tokyonight)
-
----
-
 ## What I Bring
 Strong problem-solving skills (DSA + C++)
 Deep understanding of core CS fundamentals (OS, DBMS, OOP)
