@@ -31,5 +31,5 @@ Ability to build end-to-end full-stack applications
 Experience in automation & performance optimization
 Consistent, independent, and execution-focused mindset
 
-## 📫 Connect With Me
+## Connect With Me
 - Email: singh09divyansh@gmail.com
