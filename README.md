@@ -1,4 +1,4 @@
-# 👋 YOUR_NAME
+# 👋 Divyansh Singh
 
 **`Full-Stack Developer`**
 
@@ -73,9 +73,9 @@ Software Developer | B.Tech in Computer Science | Strong foundation in Data Stru
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![YOUR_NAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyansh-0909&show_icons=true&theme=gruvbox)
-<!-- 
+
 [website]: https://YOUR_WEBSITE.com
 [x]: https://x.com/YOUR_X_HANDLE -->
